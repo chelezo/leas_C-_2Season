@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.AssemblyInfo.cs
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\alg\bin\Debug\net5.0\alg.exe
+C:\Users\User\source\repos\alg\bin\Debug\net5.0\alg.deps.json
+C:\Users\User\source\repos\alg\bin\Debug\net5.0\alg.runtimeconfig.json
+C:\Users\User\source\repos\alg\bin\Debug\net5.0\alg.runtimeconfig.dev.json
+C:\Users\User\source\repos\alg\bin\Debug\net5.0\alg.dll
+C:\Users\User\source\repos\alg\bin\Debug\net5.0\ref\alg.dll
+C:\Users\User\source\repos\alg\bin\Debug\net5.0\alg.pdb
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.dll
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\ref\alg.dll
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.pdb
+C:\Users\User\source\repos\alg\obj\Debug\net5.0\alg.genruntimeconfig.cache
