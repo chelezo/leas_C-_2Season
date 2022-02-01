@@ -7,10 +7,11 @@ namespace fib
         static void Main(string[] args)
         {
             ClassWork WorkC = new ClassWork();
-           System.Console.WriteLine("Введите число Фибоначи");
+            ClassSwitch classSw = new ClassSwitch();
+            WorkC.TxTHeLLo();
            string n = Console.ReadLine();
            int b = Convert.ToInt32(n);
-           WorkC.FibCycl(b);
+           classSw.Swc_(b);
           
         }
 
