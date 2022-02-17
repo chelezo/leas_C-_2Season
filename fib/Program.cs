@@ -6,9 +6,9 @@ namespace fib
     {
         static void Main(string[] args)
         {
-            ClassWork WorkC = new ClassWork();
+           
             ClassSwitch classSw = new ClassSwitch();
-            WorkC.TxTHeLLo();
+            classSw.TxTHeLLo();
            string n = Console.ReadLine();
            int b = Convert.ToInt32(n);
            classSw.Swc_(b);
